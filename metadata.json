@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games Vault",
+  "description": "An unblocked games portal with iframe support, JSON game catalog management, search filtering, and thumbnail gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
